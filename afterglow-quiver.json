@@ -230,12 +230,12 @@
     "backgroundColor": "#191919"
   },
   "editor": {
-    "codeCellTheme": "ambiance",
-    "markdownCellTheme": "ambiance"
+    "codeCellTheme": "tomorrow_night_eighties",
+    "markdownCellTheme": "tomorrow_night_eighties"
   },
   "css": {
     "className": "apdark",
-    "editor": ".apdark{color:#adadad}.apdark a{color:#ef9937}.apdark table tr:nth-child(even){background-color:#191919}.apdark blockquote{color:#999}.apdark hr{background-color:#191919}.apdark code{background-color:#191919}.apdark svg{background-color:#191919}.apdark .text-cell [style]{color:#adadad!important;background-color:transparent!important}.apdark .diagram-cell .ace_editor,.apdark .latex-cell .ace_editor,.apdark .markdown-cell .ace_editor{color:#c7c7c7;background-color:#191919}.apdark .markdown-cell .ace_list{color:#fff},.ace_editor{}.apdark.apdark .markdown-cell .ace_heading{color:#ef9937 !important}",
+    "editor": ".apdark{color:#adadad}.apdark a{color:#ef9937}.apdark table tr:nth-child(even){background-color:#191919}.apdark blockquote{color:#999}.apdark hr{background-color:#191919}.apdark .code-cell .editor{background-color:#191919}.apdark svg{background-color:#191919}.apdark .text-cell [style]{color:#adadad!important;background-color:transparent!important}.apdark .diagram-cell .ace_editor,.apdark .latex-cell .ace_editor,.apdark .markdown-cell .ace_editor{color:#c7c7c7;background-color:#191919}.apdark .markdown-cell .ace_list{color:#fff},.ace_editor{}.apdark.apdark .markdown-cell .ace_heading{color:#ef9937 !important}",
     "preview": ".apdark{color:#fff}.apdark a{color:#80BBFF}.apdark table tr:nth-child(even){background-color:#34393F}.apdark blockquote{color:#999}.apdark hr{background-color:#999}.apdark code{background-color:rgba(255,255,255,.1)}.apdark svg{background-color:#fff}.apdark .text-cell [style]{color:#c7c7c7!important;background-color:transparent!important}",
     "presentation": ".apdark{color:#c7c7c7}.apdark a{color:#80BBFF}.apdark table tr:nth-child(even){background-color:#34393F}.apdark blockquote{color:#999}.apdark hr{background-color:#999}.apdark code{background-color:rgba(255,255,255,.1)}.apdark svg{background-color:#fff}.apdark .text-cell [style]{color:#c7c7c7!important;background-color:transparent!important}"
   }
